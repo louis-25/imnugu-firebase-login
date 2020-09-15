@@ -21,3 +21,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# firebase 배포할땐 개인정보이므로 추가해주자
+# firebaseConfig.js
