@@ -1,6 +1,7 @@
+[![HitCount](http://hits.dwyl.com/louis-25/imnugu-firebase-login.svg)](http://hits.dwyl.com/louis-25/imnugu-firebase-login)
 # vue-test
 
-## Project setup
+## Project setup 
 ```
 npm install
 ```
